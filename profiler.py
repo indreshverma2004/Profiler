@@ -57,8 +57,8 @@ def banner():
                 ⠀⢀⣄⠈⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                 ⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     """)
-    print("        Get someone's digital identity anonymously 👻 ")
-    print("             Made by "+Style.BRIGHT+Fore.RED+"TheRealDalunacrobate "+Fore.RESET+Style.RESET_ALL+"with 💝")
+    print("        Get someone's digital identity anonymously ")
+    print("             Made by "+Style.BRIGHT+Fore.RED+"Indresh and Priyanshi "+Fore.RESET+Style.RESET_ALL)
 banner()
 
 # Get the arguments
